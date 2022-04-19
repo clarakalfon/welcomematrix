@@ -1,0 +1,27 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 15px;
+  font-family: Helvetica;
+}
+.Titre
+h1{
+  font-family: Helvetica;
+  color: Black;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h2 {
+  font-family: Helvetica;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: purple;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
