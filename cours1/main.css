@@ -1,20 +1,21 @@
 /* style.css */
 body{
   background: rgb(245,245,245);
-  color: green;
+  color: lightcoral;
   font-size: 15px;
   font-family: Helvetica;
 }
 .Titre
-h1{
+h1 {
   font-family: Helvetica;
-  color: Black;
+  color: lightpink;
   font-weight: lighter;
   font-size: 25px;
 }
+
 h2 {
   font-family: Helvetica;
-  color: pink;
+  color: lightpink;
   font-weight: lighter;
   font-size: 8px;
 }
